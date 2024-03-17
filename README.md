@@ -31,7 +31,7 @@ Continue to explore my models to see if I can improve them further.
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [[Link to notebook 1](https://github.com/kg5hqx/Capstone1/blob/master/notebook/Take-2-Module-20.ipynb)]
 - [Link to notebook 2]()
 - [Link to notebook 3]()
 
